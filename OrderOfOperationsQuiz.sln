@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderOfOperationsQuiz", "OrderOfOperationsQuiz\OrderOfOperationsQuiz.csproj", "{54FBF664-5960-4EB8-BB35-7CF996958CBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FBF664-5960-4EB8-BB35-7CF996958CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FBF664-5960-4EB8-BB35-7CF996958CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FBF664-5960-4EB8-BB35-7CF996958CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FBF664-5960-4EB8-BB35-7CF996958CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
